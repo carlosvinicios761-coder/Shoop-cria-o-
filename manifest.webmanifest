@@ -1,0 +1,11 @@
+{
+  "name": "TokCreator — Flow Studio",
+  "short_name": "TokCreator",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c0c10",
+  "theme_color": "#111116",
+  "lang": "pt-BR",
+  "description": "Laboratório de prompts para vídeos de moda no Google Flow.",
+  "icons": []
+}
